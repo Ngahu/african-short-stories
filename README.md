@@ -1,2 +1,2 @@
 # african-short-stories
-it contains short african stories
+This is a short story app
